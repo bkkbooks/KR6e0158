@@ -1,0 +1,160 @@
+canonical_identifier: bkk:krp/KR6e0158/X/v1
+canonical_location: https://kanripo.org/bkk/KR6e0158/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 依楞嚴究竟事懺
+  identifiers:
+    krp: KR6e0158
+    cbeta: X74n1478
+    cbeta_old_id: X74n1478
+    authorityid: CA0003707
+    json_key: X1478
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1478.xml
+    old_id: X74n1478
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0158_000-X.yaml, hash: 'sha256:55e76d1f0d64c09389fc3761130898603a3c6f60f7d78a4e1a0f6993aad37c56'}
+  - {seq: 1, filename: KR6e0158_001-X.yaml, hash: 'sha256:30c786bbb042995646021ad7276f02ee6c24454152c3562affb8f2dd71c73c92'}
+  - {seq: 2, filename: KR6e0158_002-X.yaml, hash: 'sha256:53b2ffd10a369b0ee94f47e92c631552e7efc21461d2e79532ae96aba1154208'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0158_000-X.markers.yaml, hash: 'sha256:1669124a6fa117147f9c3645a3ae8c6536d667c74e28b04b46773fa6d2c97257'}
+  - {seq: 1, role: markers, filename: assets/KR6e0158_001-X.markers.yaml, hash: 'sha256:353c6acfd1c935aa7ec9a14a661319836d4fa3209ba91de05d0185fbf0d74005'}
+  - {seq: 2, role: markers, filename: assets/KR6e0158_002-X.markers.yaml, hash: 'sha256:577cc76257143ede500bd2e189284fe1e45afb7bc07de36a40570db8a92bba5f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0158_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0158_X_000-mulu-2
+    span:
+    - front
+    - 9
+    - 9
+  label: 修懺須知
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0158_X_000-mulu-3
+    span:
+    - front
+    - 179
+    - 179
+  label: 上卷入懺啟白
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6e0158_X_000-mulu-4
+    span:
+    - front
+    - 981
+    - 981
+  label: 開懺偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0158_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10252
+  label: 依楞嚴究竟事懺卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0158_X_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 上卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0158_X_001-mulu-2
+    span:
+    - body
+    - 10209
+    - 10209
+  label: 創建牟尼菴香火
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 11166
+  label: 依楞嚴究竟事懺卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 下卷
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-mulu-2
+    span:
+    - body
+    - 9791
+    - 9791
+  label: 下卷繳懺意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-mulu-3
+    span:
+    - body
+    - 10482
+    - 10482
+  label: 修次依楞嚴了義究竟事懺䟦語
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-mulu-4
+    span:
+    - body
+    - 10800
+    - 10800
+  label: 懺終梵讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6e0158_X_002-mulu-5
+    span:
+    - body
+    - 10883
+    - 10883
+  label: 直音
+  type: mulu
+  level: 1
+hash: sha256:79b5f13cae9ab255f806a9d81b4769dfed9139dd10955fbedb12320b4332049d
